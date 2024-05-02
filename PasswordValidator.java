@@ -18,7 +18,7 @@ public class PasswordValidator {
             System.out.println("Caracteres especiales utilizados: " + specialCharCount);
             System.out.println("Mayusculas utilizadas: " + uppercaseCount);
         } else {
-            System.out.println("La contraseña no cumple con los requisitos.");
+            System.out.println("La contrasenia no cumple con los requisitos.");
         }
     }
 
